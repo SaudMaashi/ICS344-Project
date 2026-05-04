@@ -21,7 +21,7 @@
      - Lesson 9
      - Lesson 10
 
-4. **NAIF AlFareed**
+4. **Naif AlFareed**
    - **ID**: 201866440
    - **Lessons Completed**:
      - Lesson 3
