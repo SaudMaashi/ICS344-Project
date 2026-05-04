@@ -1,2 +1,2 @@
 # ICS344-Project
-This is the implementation (code) part for the project of ICS344.
+This is the project of ICS344 that consists of 10 lessons.
